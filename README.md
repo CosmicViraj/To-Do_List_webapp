@@ -29,4 +29,4 @@ Delete a Task:
 
 Click the red "Delete" button next to the task you want to remove.
 
-![Alt text](relative/path/to/image.png)
+![Alt text](https://github.com/CosmicViraj/To-Do_List_webapp/blob/main/Screenshot%202024-08-25%20214213.png)
