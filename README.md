@@ -11,16 +11,13 @@ Installation
 To run the application locally, follow these steps:
 
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/todo-list.git
+
+git clone https://github.com/CosmicViraj/To-Do_List_webapp.git
 Navigate to the project directory:
-bash
-Copy code
+
 cd todo-list
 Open the index.html file in your web browser:
-bash
-Copy code
+
 open index.html
 or simply double-click the index.html file to open it in your default web browser.
 Usage
